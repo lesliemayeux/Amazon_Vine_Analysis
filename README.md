@@ -16,7 +16,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ### How many Vine reviews and non-Vine reviews were there?
 
-Vine Reviews
+#### Vine Reviews
 - 33 - paid
 - 45,388 - unpaid
 
@@ -25,7 +25,7 @@ Vine Reviews
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-5 Star Reviews
+#### 5 Star Reviews
 - 15 - paid
 - 23733 - unpaid
 
@@ -34,5 +34,14 @@ Vine Reviews
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
+#### Percent of 5 Star Reviews
 - 45.45% - paid
 - 52.29% - unpaid
+![Resources/percent paid.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/a917b5202aa46d5bf96e00fd880d86d4deec3a65/Resources/percent%20paid.png)
+![Resources/percent unpaid.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/a917b5202aa46d5bf96e00fd880d86d4deec3a65/Resources/percent%20unpaid.png)
+
+
+## Summary
+
+From my analysis, there are n ot any bias' for reviews.  In fact, I do not think the Vine program was worth it as the unpaid reviews had a higher 5-star percentage. I would probably recommend not doing the program for apparel. 
+
