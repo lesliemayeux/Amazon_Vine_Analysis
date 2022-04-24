@@ -14,22 +14,25 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 ## Results
 
-## How many Vine reviews and non-Vine reviews were there?
+### How many Vine reviews and non-Vine reviews were there?
 
 Vine Reviews
-33 - paid
-45,388 - unpaid
+- 33 - paid
+- 45,388 - unpaid
 
 ![Resources/paid reviews.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/8c1ecd80dbd5b9f529dca150641370dfbc2c1bf0/Resources/paid%20reviews.png)
-![Resources/paid reviews.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/8c1ecd80dbd5b9f529dca150641370dfbc2c1bf0/Resources/paid%20reviews.png)
+![Resources/unpaid reviews.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/8c1ecd80dbd5b9f529dca150641370dfbc2c1bf0/Resources/unpaid%20reviews.png)
 
-## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 5 Star Reviews
-15 - paid
-23733 - unpaid
+- 15 - paid
+- 23733 - unpaid
 
-## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![Resources/paid 5 star.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/fc563386508a86e921c8d784346b83e7319446a7/Resources/paid%205%20star.png)
+![Resources/unpaid 5 star.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/fc563386508a86e921c8d784346b83e7319446a7/Resources/unpaid%205%20star.png)
 
-45.45% - paid
-52.29% - unpaid
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+- 45.45% - paid
+- 52.29% - unpaid
