@@ -37,6 +37,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 #### Percent of 5 Star Reviews
 - 45.45% - paid
 - 52.29% - unpaid
+
 ![Resources/percent paid.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/a917b5202aa46d5bf96e00fd880d86d4deec3a65/Resources/percent%20paid.png)
 ![Resources/percent unpaid.png](https://github.com/lesliemayeux/Amazon_Vine_Analysis/blob/a917b5202aa46d5bf96e00fd880d86d4deec3a65/Resources/percent%20unpaid.png)
 
